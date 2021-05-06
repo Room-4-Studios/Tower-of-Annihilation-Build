@@ -9,6 +9,8 @@ CS 383 - Tower of Annihilation - Room 4 Studios
 - Pressing `ESC` will open the games menu.
     - `RESUME` : Unpauses the game right where it was left off.
     - `EXIT` : Closes the game.
+    - `OPTIONS` : Opens the options manager.
+    - `MENU` : Returns you to the games main menu.
     - Player:
         - Player 1: 
             - Up: `W`
